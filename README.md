@@ -1,9 +1,9 @@
- # $\textsf{\color{lime} Rubik's Cube}$ $\text{ }$ $\text{ }$ [Play](https://koolkube.netlify.app/)
+ # $\textsf{\color{skyblue} Rubik's Cube}$ $\text{ }$ $\text{ }$ [Play](https://koolkube.netlify.app/)
 
-## $\textsf{\color{purple} Description}$
+## $\textsf{\color{lightgreen} Description}$
 This Unity Rubik's Cube Simulator is an interactive application that allows users to manipulate and solve a virtual Rubik's Cube within a 3D environment. Utilizing intuitive mouse controls, players can rotate each face of the cube individually to align colors and solve the puzzle. The simulator provides a realistic representation of the Rubik's Cube mechanics, offering both manual and automated features for an engaging user experience. Click the link above or below to play!
 
-## $\textsf{\color{purple} Features}$
+## $\textsf{\color{lightgreen} Features}$
 
 ### 1. Interactive Rubik's Cube
 - **Mouse Control:** Users can rotate each face of the Rubik's Cube by clicking and dragging with the mouse, mimicking real-world cube manipulation.
@@ -25,9 +25,9 @@ This Unity Rubik's Cube Simulator is an interactive application that allows user
 - **Learning Tool:** Serves as an educational tool for learning Rubik's Cube solving techniques and algorithms.
 - **Recreational Experience:** Offers a fun and engaging puzzle-solving experience for enthusiasts of all ages, whether beginners or advanced solvers.
 
-## $\textsf{\color{purple} Languages and Utilities Used}$
+## $\textsf{\color{lightgreen} Languages and Utilities Used}$
 - Unity
 - C#
 
-## $\textsf{\color{purple} Play Now}$
+## $\textsf{\color{lightgreen} Play Now}$
 [https://koolkube.netlify.app/](https://koolkube.netlify.app/)
